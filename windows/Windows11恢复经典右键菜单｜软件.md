@@ -6,4 +6,4 @@ Windows 11 中的右键单击进行了重新设计，与旧窗口相比，条目
 
 ![img](https://github.com/MouZaiSi-Demo/FTF/blob/master/windows/img/windows11%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%951.png)
 
-github仓库:[https://github.com/MouZaiSi-Demo/FTF/blob/master/windows/W11ClassicMenu.exe](https://github.com/MouZaiSi-Demo/FTF/blob/master/windows/W11ClassicMenu.exe)
+下载:[https://github.com/MouZaiSi-Demo/FTF/blob/master/windows/W11ClassicMenu.exe](https://github.com/MouZaiSi-Demo/FTF/blob/master/windows/W11ClassicMenu.exe)
